@@ -6,5 +6,5 @@ inline: true
 related_posts: false
 ---
 
-Joined [Grauer Lab](http://samgrauer.ca/).
+Joined <a href="http://samgrauer.ca/">Grauer Lab</a>.
 
