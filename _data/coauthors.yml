@@ -2,6 +2,10 @@
   - firstname: ["Samuel", "SJ", "Grauer", "SJ Grauer", "S Grauer", "Samuel J", "Grauer, Samuel"]
     url: https://scholar.google.ca/citations?view_op=list_works&hl=en&hl=en&user=pWaOsMIAAAAJ&sortby=pubdate
 
+"reese":
+  - firstname: ["Peck Cowles, Reese A", "Peck Cowles, Reese", "Peck Cowles", "Peck Cowles, Reese"]
+    url: https://www.linkedin.com/in/reesepeckcowles/
+
 "joseph":
   - firstname: ["Joseph Molnar", "Joseph", "J. M.", "J Molnar", "JP Molnar", "Molnar, Joseph P", "Joseph P"]
     url: https://scholar.google.ca/citations?user=aEPUt6cAAAAJ&hl=en
