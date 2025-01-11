@@ -6,5 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Presented my work on Emission Tomography at [Scitech 2025, Orlando, FL](https://www.aiaa.org/SciTech).
-
+Presented my work on Emission Tomography at <a href="https://www.aiaa.org/SciTech">Scitech 2025, Orlando, FL.
