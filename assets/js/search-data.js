@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-jouney-so-far",
+        },{id: "post-journey-so-far",
       
-        title: "Jouney so far..",
+        title: "Journey so far..",
       
       description: "this is what included image galleries could look like",
       section: "Posts",
