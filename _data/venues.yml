@@ -12,3 +12,7 @@
 "ARC":
   url: https://arc.aiaa.org/
   color: "#008f36"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#008f39"
