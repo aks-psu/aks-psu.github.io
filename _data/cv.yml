@@ -19,14 +19,13 @@
       institution: Pennsylvania State University, University Park, PA 16802
       year: 2026
       description:
-        - title: Development and Deployment of 4D Emission Tomography for Reacting Waves
+        - title: Development and Deployment of 4D Emission Tomography for Combustion
           contents:
             - Camera Calibration Framework for Multi-Camera Imaging with Refractive Liners
             - A neural-implicit reconstruction framework for 4D tomographic imaging
             - Development of an observation operator for chemiluminescence that accounts for depth-of-field effects
-            - Implementation of efficient sampling method for forward and inverse chemiluminescence imaging
-            - Validation framework using synthetic chemiluminescence images of a turbulent CH4/air flame
-            - Development of an operator for refraction correction due to curved domain in detonation experiments
+            - Implementation of an efficient sampling method for forward and inverse chemiluminescence imaging
+            - Validation framework using synthetic chemiluminescence images of the CH4/air flame
 
     - title: Master of Technology
       institution: Indian Institute of Technology Kanpur, India
@@ -43,7 +42,7 @@
       year: 2017
       description:
         - Majored in Aerospace Engineering 
-        - Coursework focused on Computational Fluid Mechanics, Turbulence, High-Speed flows, Combustion, Molecular Dynamics
+        - Coursework focused on Computational Fluid Mechanics, Turbulence, Combustion, Molecular Dynamics
 
 - title: Experience
   type: time_table
@@ -57,7 +56,7 @@
       year: 2021-2022
 
     - title: Research Associate
-      institution: Indian Institute of Science Bengaluru, India
+      institution: Indian Institute of Science, Bengaluru, India
       year: 2018-2020
 
     - title: Subject Matter Expert
@@ -88,10 +87,10 @@
   contents:
     - title: Inverse Problems
       items:
-        - Emission Tomography, Background Oriented Schlieren (BOS), Particle Image Velocimetry (PIV), Computational Imaging
+        - Combustion Diagnostics, Tomography, Background Oriented Schlieren (BOS), Particle Image Velocimetry (PIV)
     - title: Machine Learning 
       items:
-        - Neural Implicit Reconstructions, Physics Informed Machine Learning, Computer Vision, Optimization, Deep Learning, Data Mining
+        - Physics Informed Machine Learning, Computer Vision, Deep Learning
 
 - title: Other Interests
   type: list
